@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stefano Straga</h1>
 <h3 align="center">Student full-stack developer from Córdoba, Argentina</h3>
 
-- 🌱 I’m currently learning **Full stack web development in NUCBA**
+- 🌱 I’m currently learning **Full stack web development**
 
 - 💬 Ask me about **Performance web and anything about web development**
 
