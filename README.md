@@ -1,14 +1,15 @@
 <h1 align="center">Hola 👋 me llama Stefano Straga</h1>
-<h3 align="center">Soy un estudiante full-stack y también de blockchain. Me gusta mucho programar :p</h3>
+<h3 align="center">Estudiante full-stack y blockchain</h3>
 
 - 🌱 Me encuentro estudiando **Desarrollo web Full Stack, C# y solidity.**
 
 - 📫 Me podes hablar cualquier cosa a **stragastefano@gmail.com**
 
 <h3 align=" left">Conéctate conmigo:</h3>
-<p align="left">
-<a href="https://discord.gg/stefano#5015" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="stefano#5015" height="30" width="40" /></a >
-</p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' margin='30px'>](https://github.com/stef4no1)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' margin='30px'>](https://www.linkedin.com/in/stragastefano/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' margin='30px'>](https://www.instagram.com/__stef4no/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40' margin='30px'>](https://twitter.com/stef4no_1)  
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=stef4no1&show_icons=true&locale=en" alt="stef4no1" /></p>
 
