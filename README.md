@@ -1,3 +1,4 @@
+<div align="center">
 <h1 align="center">Hola 👋 me llama Stefano Straga</h1>
 <h3 align="center">Estudiante full-stack y blockchain</h3>
 
@@ -11,4 +12,4 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40' margin='30px'>](https://twitter.com/stef4no_1)  
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=stef4no1&show_icons=true&locale=en" alt="stef4no1" /></p>
-
+</div>
