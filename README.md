@@ -5,10 +5,10 @@
 
 - 📫 Me podes hablar cualquier cosa a **stragastefano@gmail.com**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' margin='30px'>](https://github.com/danillano)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' margin='30px'>](https://www.linkedin.com/in/daniela-llano/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' margin='30px'>](https://www.instagram.com/daaniillano/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40' margin='30px'>](https://twitter.com/_danillano)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' margin='30px'>](https://github.com/stef4no1)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' margin='30px'>](https://www.linkedin.com/in/stragastefano/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' margin='30px'>](https://www.instagram.com/__stef4no/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40' margin='30px'>](https://twitter.com/stef4no_1)  
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=stef4no1&show_icons=true&locale=en" alt="stef4no1" /></p>
 
