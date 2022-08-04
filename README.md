@@ -2,7 +2,7 @@
 <h1 align="center">Hola 👋 me llama Stefano Straga</h1>
 <h3 align="center">Estudiante full-stack , me gusta más el backend :P</h3>
 
-- 🌱 Me encuentro estudiando **Desarrollo web Full Stack MERN y también C# para backend**
+- 🌱 Me encuentro estudiando **Desarrollo web Full Stack MERN , C# Y SQL server**
 
 - 📫 Me podes hablar cualquier cosa a **stragastefano@gmail.com**
 
