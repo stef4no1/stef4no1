@@ -1,4 +1,4 @@
-## console.log("Hola 👋!, me llamo Stefano Straga");
+## console.log("Hola 👋! me llamo Stefano Straga");
 <div align="center">
   <a href="https://github.com/stef4no1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stef4no1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
