@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola 👋 me llamo Stefano Straga<br>Soy un estudiante de programación web full-stack y blockchain.<br><br>🌱 Me encuentro estudiando Full Stack web development, C# y solidity.<br>📫 Me podes hablar cualquier cosa a stragastefano@gmail.com
+Hola 👋 me llamo Stefano Straga<br>Soy un estudiante de programación web full-stack y blockchain.<br><br>🌱 Me encuentro estudiando Full Stack web development, C# y PHP.<br>📫 Me podes hablar cualquier cosa a stragastefano@gmail.com
 
 
 ## 🌐 Socials:
